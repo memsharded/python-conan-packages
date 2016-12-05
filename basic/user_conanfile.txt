@@ -1,0 +1,2 @@
+[requires]
+HelloPy/0.1@memsharded/stable
