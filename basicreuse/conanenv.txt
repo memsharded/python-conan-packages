@@ -1,0 +1,5 @@
+[PYTHONPATH]
+C:\Users\drodri\.conan\data\HelloPy\0.1\memsharded\testing\package\5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+
+[HelloPy:PYTHONPATH]
+C:\Users\drodri\.conan\data\HelloPy\0.1\memsharded\testing\package\5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9

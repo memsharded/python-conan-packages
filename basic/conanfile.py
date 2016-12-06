@@ -1,5 +1,4 @@
-from conans import ConanFile, tools
-import sys
+from conans import ConanFile
 
 class HelloPythonConan(ConanFile):
     name = "HelloPy"
