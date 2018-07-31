@@ -6,6 +6,5 @@ class PocoPyTestConan(ConanFile):
     def test(self):
       # self.conanfile_directory
       with tools.pythonpath(self):
-            import poco
-            print("Random float from POCO: %s" % poco.random_float())
-        
+          import poco
+          print("Random float from POCO: %s" % poco.random_float())
